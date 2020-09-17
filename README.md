@@ -26,7 +26,7 @@ The client can use 8 commands namely add, sub, mul, div, run, kill, list and exi
 
 **Any other command other than these will be considered Invalid!!**
 
-The client supports multi-command input. Use semi-colon to execute multiple commands.
+The client supports multi-command input. Use **semi-colon** to execute multiple commands.
 
 # Input format for the Server: 
 
