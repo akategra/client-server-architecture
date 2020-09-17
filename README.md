@@ -1,5 +1,7 @@
 # Client-Server Architecture:
 
+**" In order to execute the exe files on Windows OS, you need to change the linux APIs to Windows."**
+
 There are 3 directories inside the repository consisting of code for the server, client and the clienthandler.
 
 The 3 executables are present in the repository.
