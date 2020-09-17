@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588959026 source:/home/akash/Documents/CodeBlocks/thread_clienthandler/main.cpp
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<signal.h>
+	<string>
+	<sstream>
+	<wait.h>
+	<iomanip>
+	<iostream>
+	<pthread.h>
+

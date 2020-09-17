@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588943755 source:/home/akash/Documents/CodeBlocks/sockets_client/main.cpp
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<stdio.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<sstream>
+	<string>
+	<signal.h>
+	<pthread.h>
+
