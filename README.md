@@ -39,6 +39,7 @@ There are 2 commands namely print and list.
 In both of the commands above, output will be an error if no clients are connected!
 
 Any other command other than these will be considered Invalid!!
+
 **Commands are case sensitive!!!**
 
 
