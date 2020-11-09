@@ -24,7 +24,7 @@ The client can use 8 commands namely add, sub, mul, div, run, kill, list and exi
 
 4. **list**: to view process list of your client, write "list". On successful execution, the process list containing killed and active processes will be displayed. 
 
-5. **exit**: to quit, write "exit". The client will be terminated and the programs that the client executed but were not killed before exiting will alse be terminated.
+5. **exit**: to quit, write "exit". The client will be terminated and the programs that the client executed but were not killed before exiting will also be terminated.
 
 **Any other command other than these will be considered Invalid!!**
 
